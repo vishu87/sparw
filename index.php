@@ -6,7 +6,7 @@
 <head>
 	
 	<!-- Basic -->
-	<title>Margo | Home</title>
+	<title>Spar | Home</title>
 	
 	<!-- Define Charset -->
 	<meta charset="utf-8">
@@ -24,8 +24,6 @@
 	<!-- Font Awesome CSS -->
 	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen">
 	
-	<!-- Revolution Banner CSS -->
-	<link rel="stylesheet" type="text/css" href="css/settings.css" media="screen" />
 	
 	<!-- Margo CSS Styles  -->
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
@@ -54,8 +52,6 @@
 	<script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
 	<script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
 	<script type="text/javascript" src="js/jquery.parallax.js"></script>
-	<script type="text/javascript" src="js/jquery.themepunch.plugins.min.js"></script>
-	<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
 	<script type="text/javascript" src="js/script.js"></script>
 
 	<!--[if IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -80,7 +76,7 @@
 							<i class="fa fa-bars"></i>
 						</button>
 						<!-- End Toggle Nav Link For Mobiles -->
-						<a class="navbar-brand" href="index.html"><img alt="" src="images/margo.png"></a>
+						<a class="navbar-brand" href="index.html"><img alt="" src="images/logo.png"></a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<!-- Start Navigation List -->
@@ -406,37 +402,37 @@
 				
 				<!-- Client 2 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c2.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 3 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c3.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 4 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c4.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 5 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c5.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 6 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c6.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 7 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c7.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 				<!-- Client 8 -->
 				<div class="client-item item">
-					<a href="#"><img src="images/c8.png" alt="" /></a>
+					<a href="#"><img src="images/c1.png" alt="" /></a>
 				</div>
 				
 			</div>
@@ -538,43 +534,43 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-02.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-02.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-03.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-03.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-04.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-04.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-05.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-05.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-06.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-06.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-07.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-07.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-08.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-08.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="images/flickr-09.jpg" class="lightbox">
-                                        <img alt="" src="images/flickr-09.jpg">
+                                    <a href="images/flickr-01.jpg" class="lightbox">
+                                        <img alt="" src="images/flickr-01.jpg">
                                     </a>
                                 </li>
                             </ul>
@@ -586,7 +582,7 @@
                     <!-- Start Contact Widget -->
                     <div class="col-md-3">
                         <div class="footer-widget contact-widget">
-                            <h4><img src="images/footer-margo.png" class="img-responsive" alt="Footer Logo" /></h4>
+                            <h4><img src="images/logo.png" class="img-responsive" alt="Footer Logo" /></h4>
                             <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                             <ul>
                                 <li><span>Phone Number:</span> +01 234 567 890</li>
