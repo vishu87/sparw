@@ -206,7 +206,7 @@ input[type="submit"] {
 }
 
 #content {
-	padding: 60px 0;
+	padding: 10px 0;
 }
 
 #content.full-sections {
@@ -578,7 +578,6 @@ ul.social-list li:last-child a i {
 }
 
 .navbar-default .navbar-nav {
-	margin-right: 10px!important;
 	position: relative;
 	transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -599,7 +598,7 @@ ul.social-list li:last-child a i {
 	display: block;
     font-size: 14px;
 	font-weight: 300;
-    padding: 28px 10px 28px 10px;
+    padding: 28px 7px 28px 7px;
 	overflow: hidden;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1233,7 +1232,7 @@ input[type="submit"] {
 }
 
 .clients-carousel .client-item a img {
-	-webkit-filter: grayscale(100%);
+	/*-webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
@@ -1241,7 +1240,7 @@ input[type="submit"] {
 	transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;*/
 }
 
 .clients-carousel:hover .client-item a img {
@@ -1321,7 +1320,9 @@ input[type="submit"] {
 /*************** Custom Carousel ***************/
 
 .custom-carousel .item {
-	padding-right: 20px;
+	padding: 10px 10px;
+	border:1px solid #EEE;
+	margin: 0 5px;
 }
 
 .custom-carousel.show-one-slide .item {
@@ -2831,7 +2832,6 @@ ul.icons-list li i {
 .classic-title {
 	margin-bottom: 16px;
 	padding-bottom: 8px;
-	border-bottom: 1px solid #eee;
     font-weight: 300;
 }
 
@@ -2840,6 +2840,7 @@ ul.icons-list li i {
 	padding-bottom: 8px;
 	border-bottom: 1px solid;
 	font-weight: 400;
+	font-size: 20px;
 }
 
 .big-title {
@@ -3396,11 +3397,10 @@ and (min-width : 551px){
 }
 
 .projects-carousel {
-	width: 1150px !important;
+	/*width: 1150px !important;*/
 }
 
 .projects-carousel .item {
-	margin-right: 15px;
 	margin-bottom: 0;
 }
 
