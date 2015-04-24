@@ -64,7 +64,7 @@
 	<div id="container">
 		
 		<!-- Start Header -->
-		<div class="hidden-header"></div>
+		<div class="hidden-header" style="height:113px"></div>
 		<header class="clearfix">
 						<!-- Start Top Bar -->
 			<div class="top-bar">
