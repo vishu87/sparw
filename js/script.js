@@ -18,10 +18,10 @@ $(document).ready(function ($) {
 ////	Hidder Header
 
 	
-	var headerEle = function () {
-		var $headerHeight = $('header').height();
-		$('.hidden-header').css({ 'height' : $headerHeight  + "px" });
-	};
+	// var headerEle = function () {
+	// 	var $headerHeight = $('header').height();
+	// 	$('.hidden-header').css({ 'height' : $headerHeight  + "px" });
+	// };
 	
 	$(window).load(function () {
 	    headerEle();
