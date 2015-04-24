@@ -5652,3 +5652,16 @@ ul.footer-nav li a:hover {
 .navbar-collapse {
 	max-height: 340px;
 }
+.slider-main{
+	padding:10px 0;
+}
+@media (max-width : 479px) {
+    
+    .slider{
+		padding: 0 !important;
+	}
+	.slider-main{
+		padding: 0;
+	}
+    
+}
