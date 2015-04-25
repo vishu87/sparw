@@ -111,6 +111,19 @@ $(document).ready(function ($) {
     	items : 1,
     	itemsDesktopSmall : [900,3],
 		itemsTablet: [600,2],
+		itemsMobile : [479, 2]
+	});
+
+	////------- Projects Carousel
+	$(".arrival-carousel").owlCarousel({
+		navigation : false,
+		pagination: true,
+		slideSpeed : 400,
+		stopOnHover: true,
+    	autoPlay: 3000,
+    	items : 1,
+    	itemsDesktopSmall : [900,3],
+		itemsTablet: [600,2],
 		itemsMobile : [479, 1]
 	});
 	

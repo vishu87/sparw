@@ -850,16 +850,16 @@ input[type="submit"] {
     padding-bottom: 60px;
 }
 
-.clients-carousel .client-item a {
+.offer-carousel .client-item a {
 	display: block;
 	padding: 12px 0;
 	text-align: center;
 }
-.clients-carousel:hover .client-item a img {
+.offer-carousel:hover .client-item a img {
 	opacity: 0.6;
 }
 
-.clients-carousel:hover .client-item a:hover img {
+.offer-carousel:hover .client-item a:hover img {
 	-webkit-filter: grayscale(0);
 	-moz-filter: grayscale(0);
 	-o-filter: grayscale(0);
@@ -1446,7 +1446,7 @@ footer a:hover {
 }
 
 .contact-widget {
-	background: url(../images/map.png) center bottom no-repeat;
+	/*background: url(../images/map.png) center bottom no-repeat;*/
 }
 
 .contact-widget span {
@@ -1832,7 +1832,7 @@ ul.footer-nav li a:hover {
 	right: 0;
 }
 
-.touch-carousel.navigation-2.clients-carousel .owl-controls .owl-buttons {
+.touch-carousel.navigation-2.offer-carousel .owl-controls .owl-buttons {
 	top: -8px;
 }
 
@@ -1848,7 +1848,7 @@ ul.footer-nav li a:hover {
 	padding-top: 45px;
 }
 
-.touch-carousel.navigation-3.clients-carousel {
+.touch-carousel.navigation-3.offer-carousel {
 	padding-top: 25px;
 }
 
@@ -1998,6 +1998,20 @@ ul.footer-nav li a:hover {
 }
 .slider-main{
 	padding:10px 0;
+	background:url(../images/patterns/1.png);
+}
+.slider-main .slider .row{
+	box-shadow: 0 0 4px #CCC;
+}
+.arrival-main{
+	padding:0 10px;
+}
+.service-icon {
+	float: left;
+	margin-right: 10px;
+}
+.service-content{
+	padding: 10px;
 }
 @media (max-width : 479px) {
     
@@ -2006,10 +2020,26 @@ ul.footer-nav li a:hover {
 	}
 	.slider-main{
 		padding: 0;
+		background: none;
 	}
-    
+    .container{
+    	padding-left: 10px;
+    	padding-right: 10px;
+    }
+    .margin-top{
+    	margin-top: 10px;
+    }
+    .arrival-main{
+		padding:0;
+		margin: 20px 0;
+	}
 }
-
+@media (max-width : 745px) {
+    
+    #content{
+    	padding: 0;
+    }
+}
 @media (max-width : 370px) {
     
     .navbar-brand img{
@@ -2026,4 +2056,10 @@ ul.footer-nav li a:hover {
     	margin-top: 8px;
     }
     
+}
+.offer-item{
+	box-shadow:0 0 2px #CCC;
+	border:1px solid #EEE;
+	margin: 5px;
+	padding: 10px;
 }
